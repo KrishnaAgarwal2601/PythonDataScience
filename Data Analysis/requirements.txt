@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+nbformat
+plotly
+scipy
+opencv-contrib-python
+pillow
+streamlit
+nicegui
